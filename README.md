@@ -1,2 +1,2 @@
-# res
+# Resources
 This repo contains resourses 
